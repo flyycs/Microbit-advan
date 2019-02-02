@@ -1,6 +1,6 @@
 {
     "name": "Coolguy_advan_extension",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Coolguy advanced extension",
     "dependencies": {
         "core": "*"
