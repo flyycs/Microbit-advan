@@ -28,7 +28,7 @@
   "Coolguy_advan.wtr050_recordstop|block": "停止录音",
   "Coolguy_advan.wtr050_stopvoice|block": "停止播放",
   "Coolguy_advan|block": "Coolguy_advan",
-  "SoundSensor_Mode.MODE_ASR|block": "语音对话",
+  "SoundSensor_Mode.MODE_ASR|block": "语音识别",
   "SoundSensor_Mode.MODE_DIA|block": "语音对话",
   "SoundSensor_Mode.MODE_TTS|block": "语音合成",
   "SoundSensor_Mode.MODE_WORD|block": "文字对话",

@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/Coolguy_advan_extension-strings.json"
+        "_locales/zh/Coolguy_advan_extension-strings.json",
+        "_locales/zh/Coolguy_advan_extension-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
