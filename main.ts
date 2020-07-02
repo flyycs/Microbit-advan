@@ -829,7 +829,7 @@ namespace Coolguy_advan {
                 pins.digitalWritePin(wtr050_pin, 1);
             else
                 pins.digitalWritePin(wtr050_pin, 0);
-            control.waitMicros(80);
+            control.waitMicros(81);
             val >>= 1;
         }
         pins.digitalWritePin(wtr050_pin, 1);
