@@ -1,6 +1,6 @@
 # Coolguy_advan_extension
 
-Coolguy-advanced-extension for Makecode.
+Coolguy-advanced-extension for Makecode. It's micro:bit extension board, which include basic and advanced functionalities like battery module, two DC motor drivers and 5V IO interfaces. What's more the inteface is RJ11 based, it's easy to plug and use by students and teachers. It can plug Wifi, Camera and and etc, see below for detail. 
 
 ## Feature
 
