@@ -39,8 +39,6 @@ basic.forever(function () {
 })
 ```
 
-![advance_camera](https://user-images.githubusercontent.com/34023728/99958969-3bcc8b00-2dc5-11eb-9be8-11bab3fc3760.png)
-
 ### WIFI
 
 Same as other blocks, when using the WIFI module, you need to select the connected interface and set the account password (just the first time you use it), and then you can read the string from the cloud service or read it from the cloud service.
@@ -53,8 +51,6 @@ basic.forever(function () {
 })
 ```
 
-![advance_WIFI](https://user-images.githubusercontent.com/34023728/99959000-425b0280-2dc5-11eb-930a-17fd61045e5d.png)
-
 ### AI
 
 The internet is necessary when AI module works. The working mode should be set after initialization (as shown below). The AI module supports voice dialogue, voice recognition and voice conversion.
@@ -66,8 +62,6 @@ Coolguy_advan.SoundSensor_WaitInit()
 Coolguy_advan.SoundSensor_SetMode(SoundSensor_Mode.MODE_ASR)
 basic.showIcon(IconNames.Heart)
 ```
-
-![advance_AI](https://user-images.githubusercontent.com/34023728/99959077-5ef73a80-2dc5-11eb-81e6-46c7cf3bb5b5.png)
 
 ### Multi-channel Voice Recorder
 
@@ -86,8 +80,6 @@ input.onButtonPressed(Button.B, function () {
 })
 Coolguy_advan.wtr050_Init(exter_ports3.J1)
 ```
-
-![advance_3](https://user-images.githubusercontent.com/34023728/99959095-63bbee80-2dc5-11eb-9c41-8126af2d3ba1.png)
 
 ## License
 
